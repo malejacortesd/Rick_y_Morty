@@ -1,4 +1,4 @@
-import { useAppDispatch, useAppSelector } from '../../hooks/hook';
+import { useAppDispatch } from '../../hooks/hook';
 import { incrementPage, decrementPage } from '../../redux/dataSlice';
 import './paginacion.css';
 import {useState} from 'react';
