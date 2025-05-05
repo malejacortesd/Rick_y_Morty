@@ -12,9 +12,6 @@ const Encabezado = () => {
 
     return <header>
             <div>
-                <div>
-                    <h2>Examen Final de Frontend IV</h2>
-                </div>
                 <nav>
                     <ul>
                         <li><Link to="/">Inicio</Link></li>
